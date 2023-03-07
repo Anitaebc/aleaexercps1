@@ -1,0 +1,15 @@
+E:\aleaexercps1\aleaexercps1\bin\Debug\net7.0\aleaexercps1.exe
+E:\aleaexercps1\aleaexercps1\bin\Debug\net7.0\aleaexercps1.deps.json
+E:\aleaexercps1\aleaexercps1\bin\Debug\net7.0\aleaexercps1.runtimeconfig.json
+E:\aleaexercps1\aleaexercps1\bin\Debug\net7.0\aleaexercps1.dll
+E:\aleaexercps1\aleaexercps1\bin\Debug\net7.0\aleaexercps1.pdb
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.csproj.AssemblyReference.cache
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.GeneratedMSBuildEditorConfig.editorconfig
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.AssemblyInfoInputs.cache
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.AssemblyInfo.cs
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.csproj.CoreCompileInputs.cache
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.dll
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\refint\aleaexercps1.dll
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.pdb
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\aleaexercps1.genruntimeconfig.cache
+E:\aleaexercps1\aleaexercps1\obj\Debug\net7.0\ref\aleaexercps1.dll
